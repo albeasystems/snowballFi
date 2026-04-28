@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta name="description" content="Centro de soporte de snowballFi. Preguntas frecuentes y contacto directo."/>
+  <title>Soporte — snowballFi</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+
+  <!-- NAV -->
+  <nav>
+    <a href="index.html" class="nav-logo">
+      <div class="icon">📈</div>
+      <span>snowballFi</span>
+    </a>
+    <div class="nav-links">
+      <a href="index.html" class="nav-hide">Inicio</a>
+      <a href="privacy.html" class="nav-hide">Privacidad</a>
+      <a href="support.html" class="active">Soporte</a>
+      <a href="https://apps.apple.com/app/snowballfi/id0000000000" class="btn-nav">Descargar</a>
+    </div>
+  </nav>
+
+  <!-- PAGE HEADER -->
+  <div class="page-header">
+    <h1>Centro de Soporte</h1>
+    <p>Encuentra respuestas a las preguntas más frecuentes o escríbenos directamente.</p>
+  </div>
+
+  <div class="content">
+
+    <!-- FAQ -->
+    <span class="section-label">Preguntas frecuentes</span>
+
+    <div style="margin-top: 14px;">
+
+      <div class="faq-item">
+        <div class="faq-q" onclick="toggle(this)">
+          ¿Cómo funciona el cálculo del interés compuesto?
+          <span class="arrow">▼</span>
+        </div>
+        <div class="faq-a">
+          snowballFi usa la tasa nominal dividida por el número de períodos de capitalización (convención bancaria estándar, equivalente a Excel FV y la HP 12C). Por ejemplo, con una tasa anual del 7% y capitalización mensual, la tasa periódica es 7%/12 = 0,5833% al mes. Esta es la convención que utilizan los bancos, fondos de inversión y las principales calculadoras financieras del mercado.
+        </div>
+      </div>
+
+      <div class="faq-item">
+        <div class="faq-q" onclick="toggle(this)">
+          ¿Qué opciones de frecuencia de capitalización hay disponibles?
+          <span class="arrow">▼</span>
+        </div>
+        <div class="faq-a">
+          Puedes elegir entre capitalización anual, semestral, trimestral, mensual, quincenal, semanal y diaria. También puedes configurar la frecuencia de tus aportaciones periódicas de forma independiente a la capitalización.
+        </div>
+      </div>
+
+      <div class="faq-item">
+        <div class="faq-q" onclick="toggle(this)">
+          ¿Qué incluyen los KPIs avanzados de Premium?
+          <span class="arrow">▼</span>
+        </div>
+        <div class="faq-a">
+          Premium desbloquea dos bloques adicionales de análisis:<br/><br/>
+          <strong>Indicadores avanzados:</strong> IRR (Tasa Interna de Retorno), ROCE (Return on Capital Employed), Payback Period (años para recuperar la inversión), Yield on Cost, Multiplicador de capital, Regla del 72 y NPV (Valor Presente Neto).<br/><br/>
+          <strong>Ingresos y libertad financiera:</strong> Capital FIRE necesario (regla del 4%), renta pasiva mensual proyectada, Crossover Point (cuándo tus intereses superan tus aportaciones) e hitos de capital (25%, 50%, 75% y 100% del objetivo).
+        </div>
+      </div>
+
+      <div class="faq-item">
+        <div class="faq-q" onclick="toggle(this)">
+          ¿Cómo funciona la simulación de inflación e impuestos?
+          <span class="arrow">▼</span>
+        </div>
+        <div class="faq-a">
+          En la sección de Opciones Avanzadas puedes activar la corrección por inflación (introduce el porcentaje anual estimado) y la fiscalidad (tipo impositivo sobre los rendimientos). La app muestra tanto el resultado bruto como el capital real ajustado por inflación y el neto después de impuestos, para que veas el verdadero poder adquisitivo de tu inversión.
+        </div>
+      </div>
+
+      <div class="faq-item">
+        <div class="faq-q" onclick="toggle(this)">
+          ¿Por qué cambia el resultado al activar «crecimiento de aportaciones»?
+          <span class="arrow">▼</span>
+        </div>
+        <div class="faq-a">
+          La opción «Crecimiento anual de aportaciones» incrementa cada año el importe de tus aportaciones periódicas según el porcentaje que indiques (por ejemplo, +3% anual para simular que aumentas tu ahorro con el sueldo). Esto cambia el capital total aportado y, por tanto, el resultado final. Es un comportamiento correcto e intencionado: verás el badge «+X% crecimiento/año» en la tarjeta de aportaciones totales cuando esta opción esté activa.
+        </div>
+      </div>
+
+      <div class="faq-item">
+        <div class="faq-q" onclick="toggle(this)">
+          ¿Los datos se sincronizan entre dispositivos?
+          <span class="arrow">▼</span>
+        </div>
+        <div class="faq-a">
+          En la versión actual, los datos (últimos valores introducidos y preferencias) se guardan localmente en tu dispositivo. No hay sincronización entre dispositivos. Si cambias de iPhone o reinstalar la app, los datos no se restauran automáticamente.
+        </div>
+      </div>
+
+      <div class="faq-item">
+        <div class="faq-q" onclick="toggle(this)">
+          Compré Premium pero los anuncios siguen apareciendo.
+          <span class="arrow">▼</span>
+        </div>
+        <div class="faq-a">
+          Cierra y vuelve a abrir la app. Si el problema persiste, ve a <strong>Ajustes → Premium → Restaurar compra</strong> dentro de la app. Asegúrate de estar conectado con el mismo Apple ID con el que realizaste la compra. Si el problema continúa, escríbenos a <a href="mailto:albeasystems@gmail.com">albeasystems@gmail.com</a>.
+        </div>
+      </div>
+
+      <div class="faq-item">
+        <div class="faq-q" onclick="toggle(this)">
+          ¿Cómo restauro mi compra en un dispositivo nuevo?
+          <span class="arrow">▼</span>
+        </div>
+        <div class="faq-a">
+          Abre la app, ve a <strong>Ajustes → Premium</strong> y pulsa <strong>«Restaurar compra»</strong>. Inicia sesión con el mismo Apple ID que usaste al comprar y tu acceso Premium quedará restaurado sin coste adicional.
+        </div>
+      </div>
+
+      <div class="faq-item">
+        <div class="faq-q" onclick="toggle(this)">
+          ¿Cómo cambio el idioma de la app?
+          <span class="arrow">▼</span>
+        </div>
+        <div class="faq-a">
+          Ve a <strong>Ajustes → Idioma</strong> dentro de la app y selecciona entre los 7 idiomas disponibles: Español, English, Français, Italiano, Deutsch, Português (BR) e Hindi. El cambio requiere reiniciar la app para que tome efecto.
+        </div>
+      </div>
+
+      <div class="faq-item">
+        <div class="faq-q" onclick="toggle(this)">
+          Los resultados no coinciden con los de otra calculadora. ¿Por qué?
+          <span class="arrow">▼</span>
+        </div>
+        <div class="faq-a">
+          Puede deberse a la convención de tasa que usa cada calculadora. snowballFi usa la tasa nominal/n (convención bancaria), que coincide con Excel FV() y HP 12C. Algunas calculadoras usan la tasa efectiva equivalente [(1+r)^(1/n)-1], que da un resultado ligeramente diferente. Ambos enfoques son matemáticamente válidos, pero el de snowballFi es el estándar de la industria financiera. Si encuentras una discrepancia concreta, escríbenos y lo revisamos.
+        </div>
+      </div>
+
+      <div class="faq-item">
+        <div class="faq-q" onclick="toggle(this)">
+          ¿Está disponible para Android?
+          <span class="arrow">▼</span>
+        </div>
+        <div class="faq-a">
+          Actualmente snowballFi está disponible únicamente para iPhone y iPad (iOS 16 o superior). Estamos valorando el soporte para Android en futuras actualizaciones.
+        </div>
+      </div>
+
+    </div>
+
+    <!-- CONTACT -->
+    <div class="card" style="text-align:center; margin-top: 36px;">
+      <p style="font-size:22px; font-weight:800; margin-bottom:10px;">¿Necesitas más ayuda?</p>
+      <p style="font-size:15px; color: var(--text-muted); margin-bottom:28px; line-height:1.65; max-width:420px; margin-left:auto; margin-right:auto;">
+        Si no encontraste respuesta a tu pregunta, escríbenos y te responderemos en un plazo de 48 horas.
+      </p>
+      <a href="mailto:albeasystems@gmail.com?subject=Soporte%20snowballFi" class="btn-contact">
+        ✉ Enviar mensaje
+      </a>
+    </div>
+
+  </div>
+
+  <!-- FOOTER -->
+  <footer>
+    <div class="footer-inner">
+      <div class="footer-top">
+        <div class="footer-logo">
+          <div class="icon">📈</div>
+          <span>snowballFi</span>
+        </div>
+        <div class="footer-links">
+          <a href="index.html">Inicio</a>
+          <a href="privacy.html">Política de privacidad</a>
+          <a href="terms.html">Términos de uso</a>
+          <a href="support.html">Soporte</a>
+          <a href="https://apps.apple.com/app/snowballfi/id0000000000">App Store</a>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <p>© 2026 snowballFi · albeasystems. Todos los derechos reservados.</p>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    function toggle(el) {
+      el.classList.toggle('open');
+      el.nextElementSibling.classList.toggle('open');
+    }
+  </script>
+
+</body>
+</html>

@@ -1,0 +1,117 @@
+# snowballFi (Français)
+
+Page: https://albeasystems.github.io/snowballFi/fr/
+App Store: https://apps.apple.com/app/id6762523063
+
+> Projetez épargne et investissements année par année. Intérêts composés avec inflation, impôts, versements croissants et objectif FIRE. Graphiques et tableau complet. Gratuit sur iPhone.
+
+## Voyez votre argent fructifier, année après année.
+
+snowballFi projette vos investissements avec inflation, impôts et FIRE, puis détaille chaque année en graphiques et en tableau complet.
+
+## De quatre chiffres à un plan complet
+
+### Saisissez quatre chiffres
+
+Capital initial, versement périodique, taux annuel et durée. Le capital final se met à jour pendant la saisie.
+
+### Ajoutez la réalité
+
+Activez inflation, impôts et un objectif FIRE personnel. Choisissez la fréquence de capitalisation.
+
+### Lisez le résultat
+
+Capital final, argent investi et intérêts gagnés, plus ROI, TRI, multiplicateur et temps pour doubler.
+
+### Vérifiez chaque année
+
+Le tableau annuel affiche versement, intérêts cumulés et capital total pour chaque année.
+
+## Quatre graphiques, un seul moteur
+
+La projection, les graphiques et le tableau viennent du même calcul : les chiffres concordent toujours.
+
+- Répartition du patrimoine: La part du capital final qui est votre argent et celle qui vient des intérêts.
+- Évolution du patrimoine: Barres annuelles empilées : capital initial, versements et intérêts.
+- Simple vs. composé: L’écart entre intérêts simples et composés, en euros.
+- Pouvoir d’achat: Capital nominal face au capital réel après inflation.
+
+## Des réglages avancés proches de la vraie vie
+
+Activez ou désactivez chacun et voyez le capital final évoluer.
+
+- Inflation: Voyez ce que votre capital permettra d’acheter, pas seulement le chiffre affiché.
+- Impôt sur les gains: Taux fixe ou barème progressif de l’épargne en Espagne.
+- Versements croissants: Augmentez votre versement d’un pourcentage ou d’un montant fixe chaque année.
+- Objectif FIRE: Fixez un revenu mensuel et trouvez l’année où la règle des 4 % le couvre.
+
+## Chaque détail, sans tableur
+
+- Tableau année par année: Versement, versements cumulés, intérêts, intérêts cumulés et capital total pour chaque année.
+- Étapes: L’année où vous dépassez 50 000, récupérez votre capital initial ou doublez votre mise.
+- Indicateurs: Rendement pondéré par les flux, rendement sur coût et plus, chacun expliqué dans le guide de l’app. (ROI, TRI, Multiplicateur de capital, Temps pour doubler, Rendement sur coût, Revenu passif à 4 %)
+
+## Comment se calculent les intérêts composés
+
+Les intérêts composés sont ceux gagnés sur votre capital et sur les intérêts déjà ajoutés. snowballFi divise le taux nominal annuel par le nombre de périodes, comme Excel VC et la HP 12C.
+
+VF = P(1 + r/n)^(nt) + PMT x ((1 + r/n)^(nt) - 1) / (r/n)
+
+- P : capital initial
+- PMT : versement par période
+- r : taux nominal annuel
+- n : périodes par an
+- t : années
+
+### Temps pour doubler
+
+La règle de 72 donne 72 / 6,5 = 11,1 ans. La formule exacte de l’app donne 10,7 ans pour un capital unique à 6,5 % capitalisé mensuellement.
+
+### Exemple chiffré
+
+Capital initial 25 000 EUR, 800 EUR par mois en fin de mois, 6,5 % par an, capitalisation mensuelle. La ligne des 25 ans correspond exactement à l’app.
+
+| Année | Investi | Intérêts | Capital |
+| --- | --- | --- | --- |
+| 5 | 73 000,00 € | 18 109,61 € | 91 109,61 € |
+| 10 | 121 000,00 € | 61 527,12 € | 182 527,12 € |
+| 15 | 169 000,00 € | 139 940,83 € | 308 940,83 € |
+| 20 | 217 000,00 € | 266 747,91 € | 483 747,91 € |
+| 25 | 265 000,00 € | 460 474,17 € | 725 474,17 € |
+
+## Questions fréquentes
+
+### Que sont les intérêts composés ?
+
+Les intérêts composés se calculent sur le capital initial plus les intérêts déjà cumulés. À chaque période, les gains sont réinvestis : la croissance s’accélère avec le temps.
+
+### Comment snowballFi calcule-t-il ?
+
+Il divise le taux nominal annuel par le nombre de périodes de capitalisation et applique la formule de la valeur future avec versements périodiques. C’est la convention d’Excel VC et de la HP 12C.
+
+### Puis-je inclure inflation et impôts ?
+
+Oui. L’inflation montre votre pouvoir d’achat réel. L’impôt sur les gains peut utiliser un taux fixe ou le barème progressif espagnol de l’épargne. Ce sont des réglages avancés.
+
+### Que sont FIRE et la règle des 4 % ?
+
+FIRE signifie indépendance financière et retraite anticipée. La règle des 4 % estime qu’un portefeuille peut soutenir des retraits annuels de 4 % de sa valeur. snowballFi trouve l’année où votre portefeuille atteint votre revenu mensuel cible.
+
+### snowballFi est-il gratuit ?
+
+L’app est gratuite et affiche des publicités. Un achat unique supprime les publicités et débloque les réglages et indicateurs avancés. Il n’y a pas d’abonnement.
+
+### Calcule-t-il des prêts immobiliers ou des crédits ?
+
+Non. snowballFi projette la croissance de l’épargne et des investissements. Il ne modélise ni dette ni tableau d’amortissement.
+
+### Quelles langues et devises ?
+
+Anglais, espagnol, allemand, français, italien, portugais du Brésil et hindi, avec EUR, USD, GBP, CHF, BRL, INR, CAD et MXN.
+
+## Lancez votre première projection en une minute
+
+Gratuit sur iPhone. Saisissez quatre chiffres et voyez les 25 prochaines années.
+
+Les projections sont des exemples fondés sur les chiffres saisis. Elles ne constituent ni un conseil financier ni une promesse de rendement.
+snowballFi est une app indépendante. Elle n’est ni affiliée à Apple Inc. ni approuvée par Apple Inc. App Store est une marque de service d’Apple Inc.

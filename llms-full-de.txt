@@ -1,0 +1,117 @@
+# snowballFi (Deutsch)
+
+Page: https://albeasystems.github.io/snowballFi/de/
+App Store: https://apps.apple.com/app/id6762523063
+
+> Sparen und Anlegen Jahr für Jahr berechnen. Zinseszins mit Inflation, Steuern, steigenden Einzahlungen und FIRE-Ziel. Diagramme und vollständige Tabelle. Kostenlos für iPhone.
+
+## Sehen Sie Ihr Geld wachsen, Jahr für Jahr.
+
+snowballFi berechnet Geldanlagen mit Inflation, Steuern und FIRE und zeigt jedes Jahr in Diagrammen und einer vollständigen Tabelle.
+
+## Von vier Zahlen zum vollständigen Plan
+
+### Vier Zahlen eingeben
+
+Startkapital, regelmäßige Einzahlung, Jahreszins und Laufzeit. Das Endkapital aktualisiert sich beim Tippen.
+
+### Die Realität hinzufügen
+
+Aktivieren Sie Inflation, Steuern und ein persönliches FIRE-Ziel. Legen Sie fest, wie oft Zinsen gutgeschrieben werden.
+
+### Ergebnis lesen
+
+Endkapital, eingezahltes Geld und Zinsen, dazu ROI, interner Zinsfuß, Multiplikator und Verdopplungszeit.
+
+### Jedes Jahr prüfen
+
+Die Jahrestabelle zeigt Einzahlung, aufgelaufene Zinsen und Gesamtkapital für jedes Jahr.
+
+## Vier Diagramme, eine Rechenbasis
+
+Berechnung, Diagramme und Tabelle stammen aus derselben Rechnung, die Zahlen stimmen also immer überein.
+
+- Vermögensverteilung: Wie viel vom Endkapital Ihr eigenes Geld ist und wie viel Zinsen sind.
+- Vermögensentwicklung: Gestapelte Jahresbalken: Startkapital, Einzahlungen und Zinsen.
+- Einfache vs. Zinseszinsen: Der Abstand zwischen einfachen Zinsen und Zinseszins in Euro.
+- Kaufkraft: Nominales Kapital im Vergleich zum realen Kapital nach Inflation.
+
+## Erweiterte Einstellungen für die echte Welt
+
+Schalten Sie jede Option ein oder aus und sehen Sie, wie sich das Endkapital ändert.
+
+- Inflation: Sehen Sie, was Ihr Kapital kaufen kann, nicht nur, was auf dem Konto steht.
+- Steuern auf Erträge: Mit festem Satz oder den progressiven Sparstufen Spaniens.
+- Wachsende Einzahlungen: Erhöhen Sie die Einzahlung jedes Jahr um einen Prozentsatz oder einen festen Betrag.
+- FIRE-Ziel: Legen Sie ein monatliches Einkommen fest und finden Sie das Jahr, in dem die 4-Prozent-Regel es deckt.
+
+## Jedes Detail, ohne Tabellenkalkulation
+
+- Jahrestabelle: Einzahlung, kumulierte Einzahlungen, Zinsen, kumulierte Zinsen und Gesamtkapital für jedes Jahr.
+- Meilensteine: Das Jahr, in dem Sie 50.000 überschreiten, Ihr Startkapital zurückverdienen oder Ihre Anlage verdoppeln.
+- Kennzahlen: Geldgewichtete Rendite, Rendite auf die Anschaffungskosten und mehr, jeweils im App-Leitfaden erklärt. (ROI, Interner Zinsfuß, Kapitalmultiplikator, Verdopplungszeit, Rendite auf Kosten, Passives Einkommen bei 4 %)
+
+## So wird der Zinseszins berechnet
+
+Beim Zinseszins werden Zinsen auf Ihr Kapital und auf bereits gutgeschriebene Zinsen gezahlt. snowballFi teilt den nominalen Jahreszins durch die Zinsperioden, wie Excel ZW und der HP 12C.
+
+FV = P(1 + r/n)^(nt) + PMT x ((1 + r/n)^(nt) - 1) / (r/n)
+
+- P: Startkapital
+- PMT: Einzahlung je Periode
+- r: nominaler Jahreszins
+- n: Perioden pro Jahr
+- t: Jahre
+
+### Verdopplungszeit
+
+Die 72er-Regel ergibt 72 / 6,5 = 11,1 Jahre. Die exakte Formel der App ergibt 10,7 Jahre für eine Einmalanlage bei 6,5 % mit monatlicher Verzinsung.
+
+### Rechenbeispiel
+
+Startkapital 25.000 EUR, 800 EUR pro Monat am Monatsende, 6,5 % pro Jahr, monatliche Verzinsung. Die Zeile für 25 Jahre entspricht exakt der App.
+
+| Jahr | Eingezahlt | Zinsen | Kapital |
+| --- | --- | --- | --- |
+| 5 | 73.000,00 € | 18.109,61 € | 91.109,61 € |
+| 10 | 121.000,00 € | 61.527,12 € | 182.527,12 € |
+| 15 | 169.000,00 € | 139.940,83 € | 308.940,83 € |
+| 20 | 217.000,00 € | 266.747,91 € | 483.747,91 € |
+| 25 | 265.000,00 € | 460.474,17 € | 725.474,17 € |
+
+## Antworten auf häufige Fragen
+
+### Was ist Zinseszins?
+
+Zinseszins wird auf das Startkapital plus die bereits angesammelten Zinsen berechnet. In jeder Periode werden die Erträge reinvestiert, sodass das Wachstum mit der Zeit zunimmt.
+
+### Wie rechnet snowballFi?
+
+Die App teilt den nominalen Jahreszins durch die Zahl der Zinsperioden und wendet die Endwertformel mit regelmäßigen Einzahlungen an. Das ist die Konvention von Excel ZW und dem HP 12C.
+
+### Kann ich Inflation und Steuern berücksichtigen?
+
+Ja. Die Inflation zeigt Ihre reale Kaufkraft. Steuern auf Erträge können mit festem Satz oder den progressiven Sparstufen Spaniens gerechnet werden. Beides sind erweiterte Einstellungen.
+
+### Was sind FIRE und die 4-Prozent-Regel?
+
+FIRE steht für finanzielle Unabhängigkeit und frühen Ruhestand. Die 4-Prozent-Regel schätzt, dass ein Depot jährliche Entnahmen von 4 % seines Werts tragen kann. snowballFi findet das Jahr, in dem Ihr Depot Ihr monatliches Einkommensziel erreicht.
+
+### Ist snowballFi kostenlos?
+
+Die App ist kostenlos und zeigt Werbung. Ein einmaliger Kauf entfernt die Werbung und schaltet die erweiterten Einstellungen und Kennzahlen frei. Es gibt kein Abonnement.
+
+### Berechnet die App Hypotheken oder Kredite?
+
+Nein. snowballFi berechnet das Wachstum von Ersparnissen und Geldanlagen. Schulden oder Tilgungspläne werden nicht abgebildet.
+
+### Welche Sprachen und Währungen gibt es?
+
+Englisch, Spanisch, Deutsch, Französisch, Italienisch, brasilianisches Portugiesisch und Hindi, mit EUR, USD, GBP, CHF, BRL, INR, CAD und MXN.
+
+## Ihre erste Berechnung in einer Minute
+
+Kostenlos für iPhone. Vier Zahlen eingeben und die nächsten 25 Jahre sehen.
+
+Die Berechnungen sind Beispiele auf Basis Ihrer Eingaben. Sie sind keine Finanzberatung und kein Renditeversprechen.
+snowballFi ist eine unabhängige App. Sie steht in keiner Verbindung zu Apple Inc. und wird nicht von Apple Inc. unterstützt. App Store ist eine Dienstleistungsmarke von Apple Inc.

@@ -1,0 +1,117 @@
+# snowballFi (Italiano)
+
+Page: https://albeasystems.github.io/snowballFi/it/
+App Store: https://apps.apple.com/app/id6762523063
+
+> Proietta risparmi e investimenti anno per anno. Interesse composto con inflazione, tasse, versamenti crescenti e obiettivo FIRE. Grafici e tabella completa. Gratis su iPhone.
+
+## Guarda il tuo denaro crescere, anno dopo anno.
+
+snowballFi proietta gli investimenti con inflazione, tasse e FIRE, poi mostra ogni anno in grafici e in una tabella completa.
+
+## Da quattro numeri a un piano completo
+
+### Scrivi quattro numeri
+
+Capitale iniziale, versamento periodico, tasso annuo e anni. Il capitale finale si aggiorna mentre digiti.
+
+### Aggiungi la realtà
+
+Attiva inflazione, tasse e un obiettivo FIRE personale. Scegli ogni quanto si capitalizza l’interesse.
+
+### Leggi il risultato
+
+Capitale finale, denaro versato e interessi maturati, oltre a ROI, TIR, moltiplicatore e tempo di raddoppio.
+
+### Controlla ogni anno
+
+La tabella anno per anno mostra versamento, interessi accumulati e capitale totale per ogni anno.
+
+## Quattro grafici, un solo motore
+
+Proiezione, grafici e tabella nascono dallo stesso calcolo, quindi i numeri coincidono sempre.
+
+- Distribuzione del patrimonio: Quanta parte del capitale finale è denaro tuo e quanta è interesse.
+- Evoluzione del patrimonio: Barre annuali impilate: capitale iniziale, versamenti e interessi.
+- Semplice vs. composto: La differenza tra interesse semplice e composto, in euro.
+- Potere d’acquisto: Capitale nominale a confronto con il capitale reale dopo l’inflazione.
+
+## Impostazioni avanzate vicine alla vita reale
+
+Attiva o disattiva ciascuna e osserva come cambia il capitale finale.
+
+- Inflazione: Vedi cosa potrà comprare il tuo capitale, non solo la cifra che mostrerà.
+- Tasse sulle plusvalenze: Aliquota fissa oppure scaglioni progressivi del risparmio in Spagna.
+- Versamenti crescenti: Aumenta il versamento di una percentuale o di un importo fisso ogni anno.
+- Obiettivo FIRE: Fissa una rendita mensile e trova l’anno in cui la regola del 4% la copre.
+
+## Ogni dettaglio, senza foglio di calcolo
+
+- Tabella anno per anno: Versamento, versamenti cumulati, interessi, interessi cumulati e capitale totale per ogni anno.
+- Traguardi: L’anno in cui superi 50.000, recuperi il capitale iniziale o raddoppi l’investimento.
+- Indicatori: Rendimento ponderato per i flussi, rendimento sul costo e altro, ciascuno spiegato nella guida dell’app. (ROI, TIR, Moltiplicatore del capitale, Tempo di raddoppio, Rendimento sul costo, Rendita passiva al 4%)
+
+## Come si calcola l’interesse composto
+
+L’interesse composto è quello maturato sul capitale e sugli interessi già aggiunti. snowballFi divide il tasso nominale annuo per i periodi di capitalizzazione, come Excel VAL.FUT e la HP 12C.
+
+FV = P(1 + r/n)^(nt) + PMT x ((1 + r/n)^(nt) - 1) / (r/n)
+
+- P: capitale iniziale
+- PMT: versamento per periodo
+- r: tasso nominale annuo
+- n: periodi all’anno
+- t: anni
+
+### Tempo di raddoppio
+
+La regola del 72 dà 72 / 6,5 = 11,1 anni. La formula esatta dell’app dà 10,7 anni per un capitale unico al 6,5% capitalizzato mensilmente.
+
+### Esempio svolto
+
+Capitale iniziale 25.000 EUR, 800 EUR al mese a fine mese, 6,5% annuo, capitalizzazione mensile. La riga dei 25 anni coincide esattamente con l’app.
+
+| Anno | Versato | Interessi | Capitale |
+| --- | --- | --- | --- |
+| 5 | 73.000,00 € | 18.109,61 € | 91.109,61 € |
+| 10 | 121.000,00 € | 61.527,12 € | 182.527,12 € |
+| 15 | 169.000,00 € | 139.940,83 € | 308.940,83 € |
+| 20 | 217.000,00 € | 266.747,91 € | 483.747,91 € |
+| 25 | 265.000,00 € | 460.474,17 € | 725.474,17 € |
+
+## Domande frequenti
+
+### Che cos’è l’interesse composto?
+
+L’interesse composto si calcola sul capitale iniziale più gli interessi già accumulati. A ogni periodo i guadagni vengono reinvestiti, quindi la crescita accelera nel tempo.
+
+### Come calcola snowballFi?
+
+Divide il tasso nominale annuo per il numero di periodi di capitalizzazione e applica la formula del valore futuro con versamenti periodici. È la convenzione di Excel VAL.FUT e della HP 12C.
+
+### Posso includere inflazione e tasse?
+
+Sì. L’inflazione mostra il potere d’acquisto reale. Le tasse sulle plusvalenze possono usare un’aliquota fissa o gli scaglioni progressivi del risparmio in Spagna. Sono impostazioni avanzate.
+
+### Che cosa sono FIRE e la regola del 4%?
+
+FIRE significa indipendenza finanziaria e pensione anticipata. La regola del 4% stima che un portafoglio possa sostenere prelievi annui pari al 4% del suo valore. snowballFi trova l’anno in cui il portafoglio raggiunge la rendita mensile desiderata.
+
+### snowballFi è gratis?
+
+L’app è gratuita e mostra pubblicità. Un acquisto una tantum rimuove la pubblicità e sblocca impostazioni e indicatori avanzati. Non c’è alcun abbonamento.
+
+### Calcola mutui o prestiti?
+
+No. snowballFi proietta la crescita di risparmi e investimenti. Non modella debiti né piani di ammortamento.
+
+### Quali lingue e valute supporta?
+
+Inglese, spagnolo, tedesco, francese, italiano, portoghese brasiliano e hindi, con EUR, USD, GBP, CHF, BRL, INR, CAD e MXN.
+
+## Fai la tua prima proiezione in un minuto
+
+Gratis su iPhone. Scrivi quattro numeri e guarda i prossimi 25 anni.
+
+Le proiezioni sono esempi basati sui numeri inseriti. Non sono consulenza finanziaria né una promessa di rendimento.
+snowballFi è un’app indipendente. Non è affiliata né approvata da Apple Inc. App Store è un marchio di servizio di Apple Inc.

@@ -1,0 +1,117 @@
+# snowballFi (Português (Brasil))
+
+Page: https://albeasystems.github.io/snowballFi/pt-BR/
+App Store: https://apps.apple.com/app/id6762523063
+
+> Projete economias e investimentos ano a ano. Juros compostos com inflação, impostos, aportes crescentes e meta FIRE. Gráficos e tabela completa. Grátis no iPhone.
+
+## Veja seu dinheiro render, ano a ano.
+
+O snowballFi projeta investimentos com inflação, impostos e FIRE e mostra cada ano em gráficos e em uma tabela completa.
+
+## De quatro números a um plano completo
+
+### Digite quatro números
+
+Capital inicial, aporte periódico, taxa anual e anos. O capital final se atualiza enquanto você digita.
+
+### Some o mundo real
+
+Ative inflação, impostos e uma meta FIRE pessoal. Escolha a frequência de capitalização dos juros.
+
+### Leia o resultado
+
+Capital final, dinheiro investido e juros ganhos, além de ROI, TIR, multiplicador e tempo para dobrar.
+
+### Confira cada ano
+
+A tabela ano a ano mostra aporte, juros acumulados e capital total de cada ano.
+
+## Quatro gráficos, um só motor
+
+A projeção, os gráficos e a tabela vêm do mesmo cálculo, então os números sempre batem.
+
+- Distribuição do patrimônio: Quanto do capital final é seu dinheiro e quanto são juros.
+- Evolução do patrimônio: Barras anuais empilhadas: capital inicial, aportes e juros.
+- Juros simples vs. compostos: A diferença entre juros simples e compostos, em reais.
+- Poder de compra: Capital nominal contra capital real após a inflação.
+
+## Ajustes avançados que refletem a vida real
+
+Ative ou desative cada um e veja o capital final mudar.
+
+- Inflação: Veja o que seu capital vai comprar, não só o número que ele vai mostrar.
+- Impostos sobre ganhos: Use uma alíquota fixa ou as faixas progressivas da poupança na Espanha.
+- Aportes crescentes: Aumente o aporte por um percentual ou um valor fixo a cada ano.
+- Meta FIRE: Defina uma renda mensal e descubra o ano em que a regra dos 4% a cobre.
+
+## Cada detalhe, sem planilha
+
+- Tabela ano a ano: Aporte, aportes acumulados, juros, juros acumulados e capital total de cada ano.
+- Marcos: O ano em que você passa de 50.000, recupera o capital inicial ou dobra o investimento.
+- Indicadores: Retorno ponderado pelo dinheiro, retorno sobre o custo e mais, cada um explicado no guia do app. (ROI, TIR, Multiplicador de capital, Tempo para dobrar, Retorno sobre o custo, Renda passiva a 4%)
+
+## Como os juros compostos são calculados
+
+Juros compostos são os juros ganhos sobre o capital e sobre os juros já somados. O snowballFi divide a taxa nominal anual pelos períodos de capitalização, como o VF do Excel e a HP 12C.
+
+VF = P(1 + r/n)^(nt) + PMT x ((1 + r/n)^(nt) - 1) / (r/n)
+
+- P: capital inicial
+- PMT: aporte por período
+- r: taxa nominal anual
+- n: períodos por ano
+- t: anos
+
+### Tempo para dobrar
+
+A regra dos 72 dá 72 / 6,5 = 11,1 anos. A fórmula exata do app dá 10,7 anos para um capital único a 6,5% capitalizado mensalmente.
+
+### Exemplo resolvido
+
+Capital inicial 25.000 EUR, 800 EUR por mês ao fim de cada mês, 6,5% ao ano, capitalização mensal. A linha de 25 anos coincide exatamente com o app.
+
+| Ano | Investido | Juros | Capital |
+| --- | --- | --- | --- |
+| 5 | € 73.000,00 | € 18.109,61 | € 91.109,61 |
+| 10 | € 121.000,00 | € 61.527,12 | € 182.527,12 |
+| 15 | € 169.000,00 | € 139.940,83 | € 308.940,83 |
+| 20 | € 217.000,00 | € 266.747,91 | € 483.747,91 |
+| 25 | € 265.000,00 | € 460.474,17 | € 725.474,17 |
+
+## Perguntas frequentes
+
+### O que são juros compostos?
+
+Juros compostos são calculados sobre o capital inicial mais os juros já acumulados. A cada período os ganhos são reinvestidos, então o crescimento acelera com o tempo.
+
+### Como o snowballFi calcula?
+
+Ele divide a taxa nominal anual pelo número de períodos de capitalização e aplica a fórmula do valor futuro com aportes periódicos. É a convenção do VF do Excel e da HP 12C.
+
+### Posso incluir inflação e impostos?
+
+Sim. A inflação mostra seu poder de compra real. Os impostos sobre ganhos podem usar uma alíquota fixa ou as faixas progressivas da poupança na Espanha. Ambos são ajustes avançados.
+
+### O que são FIRE e a regra dos 4%?
+
+FIRE significa independência financeira e aposentadoria antecipada. A regra dos 4% estima que uma carteira sustenta retiradas anuais de 4% do seu valor. O snowballFi encontra o ano em que sua carteira atinge a renda mensal desejada.
+
+### O snowballFi é grátis?
+
+O app é gratuito e exibe anúncios. Uma compra única remove os anúncios e libera os ajustes e indicadores avançados. Não há assinatura.
+
+### Ele calcula financiamentos ou empréstimos?
+
+Não. O snowballFi projeta o crescimento de economias e investimentos. Não modela dívidas nem tabelas de amortização.
+
+### Quais idiomas e moedas são aceitos?
+
+Inglês, espanhol, alemão, francês, italiano, português do Brasil e hindi, com EUR, USD, GBP, CHF, BRL, INR, CAD e MXN.
+
+## Faça sua primeira projeção em um minuto
+
+Grátis no iPhone. Digite quatro números e veja os próximos 25 anos.
+
+As projeções são exemplos baseados nos números que você informa. Não são aconselhamento financeiro nem promessa de retorno.
+O snowballFi é um app independente. Não é afiliado nem endossado pela Apple Inc. App Store é uma marca de serviço da Apple Inc.

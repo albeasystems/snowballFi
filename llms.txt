@@ -1,0 +1,42 @@
+# snowballFi
+
+> Project savings and investments year by year. Compound interest with inflation, taxes, growing contributions and a FIRE target. Charts and a full table. Free on iPhone.
+
+snowballFi is an iOS app by Albea Systems that projects savings and investments with compound interest. It does not calculate mortgages or loans.
+
+## Facts
+
+- App Store: https://apps.apple.com/app/id6762523063
+- Platform: iPhone (iOS)
+- Price: free with ads; one-time purchase removes ads and unlocks advanced adjustments (no subscription)
+- Languages: English, Spanish, German, French, Italian, Brazilian Portuguese, Hindi
+- Currencies: EUR, USD, GBP, CHF, BRL, INR, CAD, MXN
+- Method: nominal annual rate divided by compounding periods; FV = P(1 + r/n)^(nt) + PMT x ((1 + r/n)^(nt) - 1) / (r/n)
+- Example (verified in the app): 25,000 EUR initial, 800 EUR per month, 6.5% a year, monthly compounding, 25 years = 725,474.17 EUR
+- Contact: albeasystems@gmail.com
+
+## Pages by language
+
+- [English](https://albeasystems.github.io/snowballFi/en/): snowballFi: Compound Interest Calculator for iPhone
+- [Español](https://albeasystems.github.io/snowballFi/es/): snowballFi: Calculadora de interés compuesto para iPhone
+- [Deutsch](https://albeasystems.github.io/snowballFi/de/): snowballFi: Zinseszins-Rechner für das iPhone
+- [Français](https://albeasystems.github.io/snowballFi/fr/): snowballFi : calculateur d’intérêts composés pour iPhone
+- [Italiano](https://albeasystems.github.io/snowballFi/it/): snowballFi: calcolatore interesse composto per iPhone
+- [Português (Brasil)](https://albeasystems.github.io/snowballFi/pt-BR/): snowballFi: calculadora de juros compostos para iPhone
+- [हिन्दी](https://albeasystems.github.io/snowballFi/hi/): snowballFi: iPhone के लिए चक्रवृद्धि ब्याज कैलकुलेटर
+
+## Full text
+
+- [English](https://albeasystems.github.io/snowballFi/llms-full-en.txt)
+- [Español](https://albeasystems.github.io/snowballFi/llms-full-es.txt)
+- [Deutsch](https://albeasystems.github.io/snowballFi/llms-full-de.txt)
+- [Français](https://albeasystems.github.io/snowballFi/llms-full-fr.txt)
+- [Italiano](https://albeasystems.github.io/snowballFi/llms-full-it.txt)
+- [Português (Brasil)](https://albeasystems.github.io/snowballFi/llms-full-pt-BR.txt)
+- [हिन्दी](https://albeasystems.github.io/snowballFi/llms-full-hi.txt)
+
+## Policies
+
+- [Privacy](https://albeasystems.github.io/snowballFi/privacy.html)
+- [Terms](https://albeasystems.github.io/snowballFi/terms.html)
+- [Support](https://albeasystems.github.io/snowballFi/support.html)

@@ -1,0 +1,117 @@
+# snowballFi (Español)
+
+Page: https://albeasystems.github.io/snowballFi/es/
+App Store: https://apps.apple.com/app/id6762523063
+
+> Proyecta tus ahorros e inversiones año a año. Interés compuesto con inflación, impuestos, aportaciones crecientes y objetivo FIRE. Gráficas y tabla completa. Gratis en iPhone.
+
+## Mira cómo se compone tu dinero, año a año.
+
+snowballFi proyecta inversiones con inflación, impuestos y FIRE, y muestra cada año en gráficas y en una tabla completa.
+
+## De cuatro números a un plan completo
+
+### Escribe cuatro números
+
+Capital inicial, aportación periódica, tasa anual y años. El capital final se actualiza mientras escribes.
+
+### Añade el mundo real
+
+Activa inflación, impuestos y un objetivo FIRE personal. Elige cada cuánto se capitaliza el interés.
+
+### Lee el resultado
+
+Capital final, dinero aportado e intereses generados, además de ROI, TIR, multiplicador y tiempo para duplicar.
+
+### Revisa cada año
+
+La tabla año a año muestra aportación, intereses acumulados y capital total de cada ejercicio.
+
+## Cuatro gráficas, un solo motor
+
+La proyección, las gráficas y la tabla salen del mismo cálculo, así que las cifras siempre coinciden.
+
+- Distribución del patrimonio: Cuánto del capital final es tu dinero y cuánto son intereses.
+- Evolución del patrimonio: Barras anuales apiladas: capital inicial, aportaciones e intereses.
+- Interés simple vs. compuesto: La diferencia entre interés simple y compuesto, en euros.
+- Poder adquisitivo: Capital nominal frente a capital real tras la inflación.
+
+## Ajustes avanzados que reflejan la vida real
+
+Activa o desactiva cada uno y observa cómo cambia el capital final.
+
+- Inflación: Mira lo que podrá comprar tu capital, no solo la cifra que mostrará.
+- Impuestos sobre ganancias: Usa una tasa fija o los tramos progresivos del ahorro en España.
+- Aportaciones crecientes: Sube tu aportación un porcentaje o una cantidad fija cada año.
+- Objetivo FIRE: Fija una renta mensual y descubre el año en que la regla del 4% la cubre.
+
+## Cada detalle, sin hoja de cálculo
+
+- Tabla año a año: Aportación, aportaciones acumuladas, intereses, intereses acumulados y capital total de cada año.
+- Hitos: El año en que superas 50.000, recuperas tu capital inicial o duplicas tu inversión.
+- Indicadores: Rentabilidad ponderada por el dinero, rentabilidad sobre coste y más, cada uno explicado en la guía de la app. (ROI, TIR, Multiplicador de capital, Tiempo para duplicar, Rentabilidad sobre coste, Renta pasiva al 4%)
+
+## Cómo se calcula el interés compuesto
+
+El interés compuesto es el que se gana sobre tu capital y sobre los intereses ya sumados. snowballFi divide la tasa nominal anual entre los periodos de capitalización, igual que Excel VF y la HP 12C.
+
+VF = P(1 + r/n)^(nt) + PMT x ((1 + r/n)^(nt) - 1) / (r/n)
+
+- P: capital inicial
+- PMT: aportación por periodo
+- r: tasa nominal anual
+- n: periodos por año
+- t: años
+
+### Tiempo para duplicar
+
+La regla del 72 da 72 / 6,5 = 11,1 años. La fórmula exacta de la app da 10,7 años para un capital único al 6,5% capitalizado mensualmente.
+
+### Ejemplo resuelto
+
+Capital inicial 25.000 EUR, 800 EUR al mes a final de cada mes, 6,5% anual, capitalización mensual. La fila de 25 años coincide exactamente con la app.
+
+| Año | Aportado | Intereses | Capital |
+| --- | --- | --- | --- |
+| 5 | 73.000,00 € | 18.109,61 € | 91.109,61 € |
+| 10 | 121.000,00 € | 61.527,12 € | 182.527,12 € |
+| 15 | 169.000,00 € | 139.940,83 € | 308.940,83 € |
+| 20 | 217.000,00 € | 266.747,91 € | 483.747,91 € |
+| 25 | 265.000,00 € | 460.474,17 € | 725.474,17 € |
+
+## Preguntas frecuentes
+
+### ¿Qué es el interés compuesto?
+
+El interés compuesto se calcula sobre el capital inicial más los intereses ya acumulados. En cada periodo las ganancias se reinvierten, así que el crecimiento se acelera con el tiempo.
+
+### ¿Cómo lo calcula snowballFi?
+
+Divide la tasa nominal anual entre el número de periodos de capitalización y aplica la fórmula del valor futuro con aportaciones periódicas. Es la convención de Excel VF y la HP 12C.
+
+### ¿Puedo incluir inflación e impuestos?
+
+Sí. La inflación muestra tu poder adquisitivo real. Los impuestos sobre ganancias pueden usar una tasa fija o los tramos progresivos del ahorro en España. Ambos son ajustes avanzados.
+
+### ¿Qué es FIRE y la regla del 4%?
+
+FIRE significa independencia financiera y jubilación anticipada. La regla del 4% estima que una cartera puede sostener retiradas del 4% de su valor al año. snowballFi calcula el año en que tu cartera alcanza tu renta mensual objetivo.
+
+### ¿snowballFi es gratis?
+
+La app es gratuita y muestra anuncios. Un pago único quita los anuncios y desbloquea los ajustes e indicadores avanzados. No hay suscripción.
+
+### ¿Calcula hipotecas o préstamos?
+
+No. snowballFi proyecta el crecimiento de ahorros e inversiones. No modela deudas ni cuadros de amortización de préstamos.
+
+### ¿Qué idiomas y monedas admite?
+
+Inglés, español, alemán, francés, italiano, portugués de Brasil y hindi, con EUR, USD, GBP, CHF, BRL, INR, CAD y MXN.
+
+## Haz tu primera proyección en un minuto
+
+Gratis en iPhone. Escribe cuatro números y mira los próximos 25 años.
+
+Las proyecciones son ejemplos basados en las cifras que introduces. No constituyen asesoramiento financiero ni garantía de rentabilidad.
+snowballFi es una app independiente. No está afiliada ni respaldada por Apple Inc. App Store es una marca de servicio de Apple Inc.

@@ -1,0 +1,117 @@
+# snowballFi (English)
+
+Page: https://albeasystems.github.io/snowballFi/en/
+App Store: https://apps.apple.com/app/id6762523063
+
+> Project savings and investments year by year. Compound interest with inflation, taxes, growing contributions and a FIRE target. Charts and a full table. Free on iPhone.
+
+## See your money compound, year by year.
+
+snowballFi projects investments with inflation, taxes and FIRE, then shows every year in charts and a full table.
+
+## From four numbers to a full plan
+
+### Type four numbers
+
+Initial capital, periodic contribution, annual rate and years. The final capital updates while you type.
+
+### Add the real world
+
+Switch on inflation, taxes and a personal FIRE target. Choose how often interest compounds.
+
+### Read the result
+
+Final capital, money invested and interest earned, plus ROI, IRR, multiplier and time to double.
+
+### Check every year
+
+The year-by-year table shows contribution, accumulated interest and total capital for each year.
+
+## Four charts, one engine
+
+The projection, the charts and the table come from the same calculation, so the numbers always agree.
+
+- Wealth distribution: How much of the final capital is your money and how much is interest.
+- Wealth evolution: Stacked yearly bars: initial capital, contributions and interest.
+- Simple vs. compound: The gap between simple and compound interest, in currency.
+- Purchasing power: Nominal capital against real capital after inflation.
+
+## Advanced adjustments that match real life
+
+Switch each one on or off and watch the final capital change.
+
+- Inflation: See what your capital will buy, not just what it will say.
+- Taxes on gains: Use a flat rate or Spain’s progressive savings brackets.
+- Growing contributions: Raise your contribution by a percentage or a fixed amount each year.
+- FIRE target: Set a monthly income goal and find the year the 4% rule covers it.
+
+## Every detail, without a spreadsheet
+
+- Year-by-year table: Contribution, accumulated contributions, interest, accumulated interest and total capital for every year.
+- Milestones: The year you pass 50,000, recover your initial capital or double your investment.
+- Indicators: Money-weighted return, yield on cost and more, each explained in the in-app guide. (ROI, IRR, Capital multiplier, Time to double, Yield on cost, Passive income at 4%)
+
+## How compound interest is calculated
+
+Compound interest is interest earned on your capital and on the interest already added. snowballFi divides the nominal annual rate by the compounding periods, the same convention as Excel FV and the HP 12C.
+
+FV = P(1 + r/n)^(nt) + PMT x ((1 + r/n)^(nt) - 1) / (r/n)
+
+- P: initial capital
+- PMT: contribution per period
+- r: nominal annual rate
+- n: periods per year
+- t: years
+
+### Time to double
+
+The rule of 72 gives 72 / 6.5 = 11.1 years. The exact formula the app uses gives 10.7 years for a lump sum at 6.5% compounded monthly.
+
+### Worked example
+
+Initial capital 25,000 EUR, 800 EUR per month at the end of each month, 6.5% a year, compounded monthly. The 25-year row matches the app exactly.
+
+| Year | Invested | Interest | Capital |
+| --- | --- | --- | --- |
+| 5 | €73,000.00 | €18,109.61 | €91,109.61 |
+| 10 | €121,000.00 | €61,527.12 | €182,527.12 |
+| 15 | €169,000.00 | €139,940.83 | €308,940.83 |
+| 20 | €217,000.00 | €266,747.91 | €483,747.91 |
+| 25 | €265,000.00 | €460,474.17 | €725,474.17 |
+
+## Questions, answered
+
+### What is compound interest?
+
+Compound interest is interest calculated on the initial capital plus the interest already accumulated. Each period the earnings are reinvested, so growth accelerates over time.
+
+### How does snowballFi calculate it?
+
+It divides the nominal annual rate by the number of compounding periods and applies the future value formula with periodic contributions. This is the convention used by Excel FV and the HP 12C.
+
+### Can I include inflation and taxes?
+
+Yes. Inflation shows your real purchasing power. Taxes on gains can use a flat rate or Spain’s progressive savings brackets. Both are advanced adjustments.
+
+### What is FIRE and the 4% rule?
+
+FIRE means financial independence, retire early. The 4% rule estimates that a portfolio can support withdrawals of 4% of its value a year. snowballFi finds the year your portfolio reaches your monthly income goal.
+
+### Is snowballFi free?
+
+The app is free and shows ads. A one-time purchase removes ads and unlocks the advanced adjustments and indicators. There is no subscription.
+
+### Does it calculate mortgages or loans?
+
+No. snowballFi projects the growth of savings and investments. It does not model debt or loan amortization schedules.
+
+### Which languages and currencies are supported?
+
+English, Spanish, German, French, Italian, Brazilian Portuguese and Hindi, with EUR, USD, GBP, CHF, BRL, INR, CAD and MXN.
+
+## Run your first projection in a minute
+
+Free on iPhone. Enter four numbers and see the next 25 years.
+
+Projections are examples based on the numbers you enter. They are not financial advice or a promise of returns.
+snowballFi is an independent app. It is not affiliated with or endorsed by Apple Inc. App Store is a service mark of Apple Inc.
